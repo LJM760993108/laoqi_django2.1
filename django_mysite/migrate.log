@@ -1,0 +1,4 @@
+Operations to perform:
+  Apply all migrations: admin, auth, blog, contenttypes, sessions
+Running migrations:
+  Applying blog.0002_auto_20190918_0929...
