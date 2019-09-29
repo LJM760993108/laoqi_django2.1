@@ -1,4 +1,4 @@
-cd F:\anacandon\envs\laoqi_1_django\laoqi_1\account
+cd F:\anacandon\envs\laoqi_django_2.1\laoqi2_test\django_mysite\blog
 
 echo=>forms.py
 
